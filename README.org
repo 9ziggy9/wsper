@@ -1,0 +1,2 @@
+* whsper
+A stupid compiler that turns ASCII into an encoding of spaces and tabs
